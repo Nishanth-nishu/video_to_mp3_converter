@@ -628,8 +628,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Passionate about building scalable distributed systems, cloud-native applications, and AI-powered solutions.
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/r-nishanth-/)
-- 🐙 [PF]([https://github.com/yourusername](https://nishanth-nishu.github.io/my_protfolio/)
+- 💼 [LinkedIn] [https://www.linkedin.com/in/r-nishanth-/](https://www.linkedin.com/in/r-nishanth-/)
+- 🐙 [PF] [https://nishanth-nishu.github.io/my_protfolio/](https://nishanth-nishu.github.io/my_protfolio/)
 - 📧 Email: nishanth0962333@gmail.com
 
 ---
